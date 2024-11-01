@@ -27,7 +27,7 @@
     "bottleneck": "^2.19.5",
     "dotenv": "^16.4.1",
     "formdata-node": "^6.0.3",
-    "giget": "^1.2.1",
+    "giget": "^1.2.3",
     "inquirer": "^8.2.5",
     "slugify": "^1.6.6"
   },
