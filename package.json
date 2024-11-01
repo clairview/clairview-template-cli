@@ -1,15 +1,15 @@
 {
   "name": "clairview-template-cli",
-  "version": "0.4.3",
+  "version": "1.0.0",
   "description": "CLI Utility for applying templates to a Clairview instance.",
-  "author": "bryantgillespie @bryantgillespie",
+  "author": "developers@digi-trans.org",
   "bin": {
     "clairview-template-cli": "./bin/run"
   },
-  "homepage": "https://github.com/clairview-community/clairview-template-cli",
+  "homepage": "https://github.com/clairview/clairview-template-cli",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "clairview-community/clairview-template-cli",
+  "repository": "clairview/clairview-template-cli",
   "files": [
     "/bin",
     "/templates",
@@ -70,7 +70,7 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "bugs": "https://github.com/clairview-community/clairview-template-cli/issues",
+  "bugs": "https://github.com/clairview/clairview-template-cli/issues",
   "keywords": [
     "clairview",
     "templates",
